@@ -4,7 +4,4 @@ line 3
 line 4 for new_branch
 line for exp branch
 continue working on main branch
-
 This is excersice line for udemy course
-
-line 10
